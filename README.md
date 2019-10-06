@@ -1,2 +1,2 @@
 # Resume-CV
-Latex Resume-CV Template 
+Latex Resume-CV Template Added new template! 
